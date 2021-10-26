@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    android:id="@+id/rocket_image">
+
+    <item android:drawable="@drawable/scene00001" android:duration="150" />
+    <item android:drawable="@drawable/scene00004" android:duration="150" />
+    <item android:drawable="@drawable/scene00007" android:duration="150" />
+    <item android:drawable="@drawable/scene00010" android:duration="150" />
+    <item android:drawable="@drawable/scene00013" android:duration="150" />
+    <item android:drawable="@drawable/scene00016" android:duration="150" />
+    <item android:drawable="@drawable/scene00019" android:duration="150" />
+    <item android:drawable="@drawable/scene00022" android:duration="150" />
+    <item android:drawable="@drawable/scene00025" android:duration="150" />
+    <item android:drawable="@drawable/scene00028" android:duration="150" />
+    <item android:drawable="@drawable/scene00031" android:duration="150" />
+    <item android:drawable="@drawable/scene00034" android:duration="150" />
+    <item android:drawable="@drawable/scene00037" android:duration="150" />
+    <item android:drawable="@drawable/scene00040" android:duration="150" />
+    <item android:drawable="@drawable/scene00043" android:duration="150" />
+    <item android:drawable="@drawable/scene00046" android:duration="150" />
+    <item android:drawable="@drawable/scene00049" android:duration="150" />
+    <item android:drawable="@drawable/scene00052" android:duration="150" />
+    <item android:drawable="@drawable/scene00055" android:duration="150" />
+    <item android:drawable="@drawable/scene00058" android:duration="150" />
+    <item android:drawable="@drawable/scene00061" android:duration="150" />
+    <item android:drawable="@drawable/scene00064" android:duration="150" />
+    <item android:drawable="@drawable/scene00067" android:duration="150" />
+    <item android:drawable="@drawable/scene00070" android:duration="150" />
+    <item android:drawable="@drawable/scene00073" android:duration="150" />
+    <item android:drawable="@drawable/scene00076" android:duration="150" />
+    <item android:drawable="@drawable/scene00079" android:duration="150" />
+    <item android:drawable="@drawable/scene00082" android:duration="150" />
+    <item android:drawable="@drawable/scene00085" android:duration="150" />
+    <item android:drawable="@drawable/scene00088" android:duration="150" />
+    <item android:drawable="@drawable/scene00091" android:duration="150" />
+    <item android:drawable="@drawable/scene00094" android:duration="150" />
+    <item android:drawable="@drawable/scene00097" android:duration="150" />
+    <item android:drawable="@drawable/scene00100" android:duration="150" />
+    <item android:drawable="@drawable/scene00103" android:duration="150" />
+    <item android:drawable="@drawable/scene00106" android:duration="150" />
+    <item android:drawable="@drawable/scene00109" android:duration="150" />
+    <item android:drawable="@drawable/scene00112" android:duration="150" />
+    <item android:drawable="@drawable/scene00115" android:duration="150" />
+    <item android:drawable="@drawable/scene00118" android:duration="150" />
+    <item android:drawable="@drawable/scene00121" android:duration="150" />
+    <item android:drawable="@drawable/scene00124" android:duration="150" />
+    <item android:drawable="@drawable/scene00127" android:duration="150" />
+    <item android:drawable="@drawable/scene00130" android:duration="150" />
+    <item android:drawable="@drawable/scene00133" android:duration="150" />
+    <item android:drawable="@drawable/scene00136" android:duration="150" />
+    <item android:drawable="@drawable/scene00139" android:duration="150" />
+    <item android:drawable="@drawable/scene00142" android:duration="150" />
+    <item android:drawable="@drawable/scene00145" android:duration="150" />
+    <item android:drawable="@drawable/scene00148" android:duration="150" />
+    <item android:drawable="@drawable/scene00151" android:duration="150" />
+    <item android:drawable="@drawable/scene00154" android:duration="150" />
+    <item android:drawable="@drawable/scene00157" android:duration="150" />
+    <item android:drawable="@drawable/scene00160" android:duration="150" />
+    <item android:drawable="@drawable/scene00163" android:duration="150" />
+    <item android:drawable="@drawable/scene00166" android:duration="150" />
+    <item android:drawable="@drawable/scene00169" android:duration="150" />
+    <item android:drawable="@drawable/scene00172" android:duration="150" />
+    <item android:drawable="@drawable/scene00175" android:duration="150" />
+    <item android:drawable="@drawable/scene00178" android:duration="150" />
+    <item android:drawable="@drawable/scene00181" android:duration="150" />
+    <item android:drawable="@drawable/scene00184" android:duration="150" />
+    <item android:drawable="@drawable/scene00187" android:duration="150" />
+    <item android:drawable="@drawable/scene00190" android:duration="150" />
+    <item android:drawable="@drawable/scene00193" android:duration="150" />
+    <item android:drawable="@drawable/scene00196" android:duration="150" />
+    <item android:drawable="@drawable/scene00199" android:duration="150" />
+    <item android:drawable="@drawable/scene00202" android:duration="150" />
+    <item android:drawable="@drawable/scene00205" android:duration="150" />
+    <item android:drawable="@drawable/scene00208" android:duration="150" />
+    <item android:drawable="@drawable/scene00211" android:duration="150" />
+    <item android:drawable="@drawable/scene00214" android:duration="150" />
+    <item android:drawable="@drawable/scene00217" android:duration="150" />
+    <item android:drawable="@drawable/scene00220" android:duration="150" />
+    <item android:drawable="@drawable/scene00223" android:duration="150" />
+    <item android:drawable="@drawable/scene00226" android:duration="150" />
+    <item android:drawable="@drawable/scene00229" android:duration="150" />
+    <item android:drawable="@drawable/scene00232" android:duration="150" />
+    <item android:drawable="@drawable/scene00235" android:duration="150" />
+    <item android:drawable="@drawable/scene00238" android:duration="150" />
+    <item android:drawable="@drawable/scene00241" android:duration="150" />
+    <item android:drawable="@drawable/scene00244" android:duration="150" />
+    <item android:drawable="@drawable/scene00247" android:duration="150" />
+    <item android:drawable="@drawable/scene00250" android:duration="150" />
+    <item android:drawable="@drawable/scene00253" android:duration="150" />
+    <item android:drawable="@drawable/scene00256" android:duration="150" />
+    <item android:drawable="@drawable/scene00259" android:duration="150" />
+    <item android:drawable="@drawable/scene00262" android:duration="150" />
+    <item android:drawable="@drawable/scene00265" android:duration="150" />
+    <item android:drawable="@drawable/scene00268" android:duration="150" />
+    <item android:drawable="@drawable/scene00271" android:duration="150" />
+    <item android:drawable="@drawable/scene00274" android:duration="150" />
+    <item android:drawable="@drawable/scene00277" android:duration="150" />
+    <item android:drawable="@drawable/scene00280" android:duration="150" />
+    <item android:drawable="@drawable/scene00283" android:duration="150" />
+    <item android:drawable="@drawable/scene00286" android:duration="150" />
+    <item android:drawable="@drawable/scene00289" android:duration="150" />
+    <item android:drawable="@drawable/scene00292" android:duration="150" />
+    <item android:drawable="@drawable/scene00295" android:duration="150" />
+    <item android:drawable="@drawable/scene00298" android:duration="150" />
+    <item android:drawable="@drawable/scene00301" android:duration="150" />
+
+
+
+
+
+</animation-list>

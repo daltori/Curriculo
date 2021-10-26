@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hoja de Vida </string>
+    <string name="hola">hola</string>
+    <string name="string_hola">0</string>
+    <string name="txt_view">Hola, soy David, un ingeniero electrónico apasionado por la aplicación de la
+ingeniería en la resolución de problemas, en campos como la programación,
+la automatización, la robótica o cualquier otro campo de la electrónica, siempre dispuesto a afrontar nuevos retos.
+</string>
+    <string name="titulo">EDUCACIÓN</string>
+    <string name="profesion">Ingeniero Electrónico | Universidad de Cundinamarca</string>
+    <string name="sena">Técnico en Mantenimiento y Reparación de Equipos de Cómputo | SENA</string>
+    <string name="udec">udec</string>
+    <string name="isena">sena</string>
+    <string name="descripcion_me">me</string>
+
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bac"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/animationlist"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#8003DAC5"
+        android:gravity="clip_horizontal|center"
+        android:text="Contacto"
+        android:layout_marginBottom="20dp"
+
+        android:textColor="#ffffff"
+        android:textSize="40sp" />
+
+    <LinearLayout
+        android:id="@+id/button7"
+        style="@android:style/ButtonBar"
+        android:layout_width="200dp"
+        android:layout_height="76dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/backwasa"
+        android:clickable="true"
+        android:elevation="5dp"
+       android:layout_marginTop="20dp"
+        android:onClick="url"
+
+        android:orientation="horizontal">
+
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/likeImagenView"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/whatsapp"
+            android:stateListAnimator="@null"
+            app:lottie_loop="true" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="120dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="20dp"
+            android:onClick="url"
+            android:shadowColor="#4CAF50"
+            android:stateListAnimator="@null"
+            android:text="WhatsApp"
+
+            app:backgroundTint="@color/whatsapp"
+
+            app:rippleColor="#4CAF50"
+            app:strokeColor="#4CAF50" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button8"
+
+        android:layout_width="200dp"
+        android:layout_height="76dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/backlink"
+        android:clickable="true"
+        android:elevation="5dp"
+        android:onClick="url1"
+
+
+        android:orientation="horizontal">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/likeImagenView1"
+            android:layout_width="66dp"
+            android:layout_height="62dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:background="#0E76A8"
+            android:stateListAnimator="@null"
+            app:lottie_loop="true" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="103dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:onClick="url"
+
+            android:stateListAnimator="@null"
+            android:text="Linkedin"
+
+            app:backgroundTint="#0E76A8" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button9"
+        android:layout_width="200dp"
+        android:layout_height="76dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/backgithub"
+        android:clickable="true"
+        android:elevation="5dp"
+
+        android:onClick="url2"
+        android:orientation="horizontal">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/likeImagenView2"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="0dp"
+            android:background="#151313"
+            android:stateListAnimator="@null"
+            app:lottie_loop="true" />
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="103dp"
+            android:layout_height="70dp"
+            android:layout_marginBottom="10dp"
+            android:onClick="url2"
+            android:stateListAnimator="@null"
+            android:text="github"
+            app:backgroundTint="#151313" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
